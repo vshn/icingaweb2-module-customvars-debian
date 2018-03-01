@@ -1,0 +1,5 @@
+/debian/.debhelper/
+/debian/files
+/debian/icingaweb2-module-customvars.debhelper.log
+/debian/icingaweb2-module-customvars.substvars
+/debian/icingaweb2-module-customvars/

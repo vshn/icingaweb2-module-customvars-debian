@@ -8,5 +8,6 @@ Homepage: https://github.com/vshn/icingaweb2-module-customvars
 
 Package: icingaweb2-module-customvars
 Architecture: all
-Depends: icingaweb2-common
-Description: Show host variables in icinga web interface
+Depends: ${misc:Depends}, icingaweb2-common
+Description: Icingaweb2 plugin for host variables
+ Show host variables in icinga web interface
