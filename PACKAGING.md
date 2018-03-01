@@ -1,4 +1,4 @@
-# Packaging instruction
+# Packaging instructions
 
 1. Add a tag to source repository to create a release
 1. Download .tar.gz from source repository
