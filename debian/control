@@ -1,0 +1,10 @@
+Source: icingaweb2-module-customvars
+Section: net
+Priority: optional
+Maintainer: David Gubler <david.gubler@vshn.ch>
+Homepage: https://github.com/vshn/icingaweb2-module-customvars
+
+Package: icingaweb2-module-customvars
+Architecture: all
+Depends: icingaweb2-common
+Description: Show host variables in icinga web interface
