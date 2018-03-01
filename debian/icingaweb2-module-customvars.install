@@ -1,1 +1,5 @@
-* usr/share/icingaweb2/modules/customvars
+library usr/share/icingaweb2/modules/customvars
+LICENSE usr/share/icingaweb2/modules/customvars
+module.info usr/share/icingaweb2/modules/customvars
+run.php usr/share/icingaweb2/modules/customvars
+README.md usr/share/icingaweb2/modules/customvars
